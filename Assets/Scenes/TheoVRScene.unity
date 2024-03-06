@@ -1460,6 +1460,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 601055635}
     m_Modifications:
+    - target: {fileID: 706628461816406176, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 2844188469828820898, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
         type: 3}
       propertyPath: m_Name
@@ -2179,6 +2184,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 601055635}
     m_Modifications:
+    - target: {fileID: 706628461816406176, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2844188469828820898, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
+        type: 3}
+      propertyPath: m_Name
+      value: LightTorch (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3209084860165164034, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
+        type: 3}
+      propertyPath: m_AdditionalLightsShadowResolutionTier
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4275486547479457486, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -2244,16 +2264,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3209084860165164034, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
-        type: 3}
-      propertyPath: m_AdditionalLightsShadowResolutionTier
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2844188469828820898, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
-        type: 3}
-      propertyPath: m_Name
-      value: LightTorch (3)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2273,6 +2283,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 601055635}
     m_Modifications:
+    - target: {fileID: 706628461816406176, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 2844188469828820898, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
         type: 3}
       propertyPath: m_Name
@@ -2441,6 +2456,16 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 601055635}
     m_Modifications:
+    - target: {fileID: 706628461816406176, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2844188469828820898, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
+        type: 3}
+      propertyPath: m_Name
+      value: LightTorch (2)
+      objectReference: {fileID: 0}
     - target: {fileID: 4275486547479457486, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -2505,11 +2530,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2844188469828820898, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
-        type: 3}
-      propertyPath: m_Name
-      value: LightTorch (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3472,13 +3492,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1528418344}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.004947159, y: 0.92604667, z: -0.37663317, w: 0.023678403}
-  m_LocalPosition: {x: -3.74, y: 7.01, z: 6.82}
+  m_LocalRotation: {x: -0, y: -0.8911894, z: 0.45363152, w: 0}
+  m_LocalPosition: {x: -3.74, y: 9.09, z: 6.61}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 44.213, y: 176.194, z: -2.159}
+  m_LocalEulerAnglesHint: {x: 53.954, y: -180, z: 0}
 --- !u!114 &1528418348
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3808,6 +3828,16 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 601055635}
     m_Modifications:
+    - target: {fileID: 706628461816406176, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2844188469828820898, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
+        type: 3}
+      propertyPath: m_Name
+      value: LightTorch (1)
+      objectReference: {fileID: 0}
     - target: {fileID: 4275486547479457486, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -3872,11 +3902,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -0.09
-      objectReference: {fileID: 0}
-    - target: {fileID: 2844188469828820898, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
-        type: 3}
-      propertyPath: m_Name
-      value: LightTorch (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -5047,6 +5072,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pot_01
       objectReference: {fileID: 0}
+    - target: {fileID: 5048470222267439989, guid: 65a11193bfd8d614aaafada45821f419,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7984393776073872500, guid: 65a11193bfd8d614aaafada45821f419,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5234,6 +5264,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 601055635}
     m_Modifications:
+    - target: {fileID: 706628461816406176, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
+        type: 3}
+      propertyPath: m_Lightmapping
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 2844188469828820898, guid: 01395d1815bbc4d4bb86b19b59e6c7b8,
         type: 3}
       propertyPath: m_Name
