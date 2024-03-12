@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/AresQuestAssets/Scenes/Justine.unity
     guid: 44cb3e05f6540a941842400663f50cb9
   - enabled: 1
+    path: Assets/AresQuestAssets/Scenes/GameRule.unity
+    guid: bba5be4b29edec94ab92300db82ae521
+  - enabled: 1
     path: Assets/AresQuestAssets/Scenes/TheoVRScene.unity
     guid: a1c981925785dd549b58d68e73907a49
   m_configObjects:
