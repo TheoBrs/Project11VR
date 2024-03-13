@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 4325897198431682033}
   - component: {fileID: 8698842567868775946}
   - component: {fileID: 7442221752976257901}
+  - component: {fileID: 8406101705561159915}
   m_Layer: 0
   m_Name: Wood_02 (3)
   m_TagString: Untagged
@@ -338,6 +339,18 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
     m_Variable: {fileID: 0}
+--- !u!114 &8406101705561159915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 107307298090327702}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1ffcd15290876478609cae8dcb3d0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &208754142098937144
 GameObject:
   m_ObjectHideFlags: 0
@@ -353,6 +366,7 @@ GameObject:
   - component: {fileID: 2534724005255261931}
   - component: {fileID: 5251579211755201638}
   - component: {fileID: 6388907383387720418}
+  - component: {fileID: 1620861266905729378}
   m_Layer: 0
   m_Name: Wood_02 (5)
   m_TagString: Untagged
@@ -676,6 +690,18 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
     m_Variable: {fileID: 0}
+--- !u!114 &1620861266905729378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 208754142098937144}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1ffcd15290876478609cae8dcb3d0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &396426059809076057
 GameObject:
   m_ObjectHideFlags: 0
@@ -1163,6 +1189,7 @@ GameObject:
   - component: {fileID: 5208070463230989580}
   - component: {fileID: 585485303223185773}
   - component: {fileID: 121407872436652253}
+  - component: {fileID: 3667073912594245220}
   m_Layer: 0
   m_Name: Wood_02 (10)
   m_TagString: Untagged
@@ -1486,6 +1513,18 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
     m_Variable: {fileID: 0}
+--- !u!114 &3667073912594245220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1779908202399852418}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1ffcd15290876478609cae8dcb3d0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2149241342995261011
 GameObject:
   m_ObjectHideFlags: 0
@@ -1782,6 +1821,7 @@ GameObject:
   - component: {fileID: 2540372756777626559}
   - component: {fileID: 3130394540461370925}
   - component: {fileID: 1572587410451062908}
+  - component: {fileID: 3907491001219841504}
   m_Layer: 0
   m_Name: Wood_02 (7)
   m_TagString: Untagged
@@ -2105,6 +2145,18 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
     m_Variable: {fileID: 0}
+--- !u!114 &3907491001219841504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3197826479224577312}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1ffcd15290876478609cae8dcb3d0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3215620536093942333
 GameObject:
   m_ObjectHideFlags: 0
@@ -2120,6 +2172,7 @@ GameObject:
   - component: {fileID: 122435867561883803}
   - component: {fileID: 2727695264253971450}
   - component: {fileID: 517139654163370392}
+  - component: {fileID: 8126926351193188915}
   m_Layer: 0
   m_Name: Wood_02 (2)
   m_TagString: Untagged
@@ -2443,6 +2496,18 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
     m_Variable: {fileID: 0}
+--- !u!114 &8126926351193188915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3215620536093942333}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1ffcd15290876478609cae8dcb3d0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3655678184015638467
 GameObject:
   m_ObjectHideFlags: 0
@@ -2458,6 +2523,7 @@ GameObject:
   - component: {fileID: 4011216558616627901}
   - component: {fileID: 7917573740070394404}
   - component: {fileID: 8192698041679623263}
+  - component: {fileID: 2679368166639167252}
   m_Layer: 0
   m_Name: Wood_02 (6)
   m_TagString: Untagged
@@ -2781,6 +2847,18 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
     m_Variable: {fileID: 0}
+--- !u!114 &2679368166639167252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3655678184015638467}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1ffcd15290876478609cae8dcb3d0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3889202437343205207
 GameObject:
   m_ObjectHideFlags: 0
@@ -2796,6 +2874,7 @@ GameObject:
   - component: {fileID: 1028486497653082130}
   - component: {fileID: 919478024380588494}
   - component: {fileID: 2037730086180918901}
+  - component: {fileID: 8416025754014632238}
   m_Layer: 0
   m_Name: Wood_02 (4)
   m_TagString: Untagged
@@ -3119,6 +3198,18 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
     m_Variable: {fileID: 0}
+--- !u!114 &8416025754014632238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3889202437343205207}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1ffcd15290876478609cae8dcb3d0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3890988367393580620
 GameObject:
   m_ObjectHideFlags: 0
@@ -3134,6 +3225,7 @@ GameObject:
   - component: {fileID: 2134213377865612961}
   - component: {fileID: 3691200009777450465}
   - component: {fileID: 5564274555556252874}
+  - component: {fileID: 4608660876721499275}
   m_Layer: 0
   m_Name: Wood_02 (8)
   m_TagString: Untagged
@@ -3457,6 +3549,18 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
     m_Variable: {fileID: 0}
+--- !u!114 &4608660876721499275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3890988367393580620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1ffcd15290876478609cae8dcb3d0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4746462589326984268
 GameObject:
   m_ObjectHideFlags: 0
@@ -3590,6 +3694,7 @@ GameObject:
   - component: {fileID: 2958777835647971378}
   - component: {fileID: 373510591823073088}
   - component: {fileID: 6172462590884797858}
+  - component: {fileID: 871948638692186920}
   m_Layer: 0
   m_Name: Wood_02 (9)
   m_TagString: Untagged
@@ -3913,6 +4018,18 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
     m_Variable: {fileID: 0}
+--- !u!114 &871948638692186920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4838997322675247662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1ffcd15290876478609cae8dcb3d0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5106582944319766906
 GameObject:
   m_ObjectHideFlags: 0
@@ -3928,6 +4045,7 @@ GameObject:
   - component: {fileID: 6615465743628125980}
   - component: {fileID: 6816298329038454482}
   - component: {fileID: 7266384787273505110}
+  - component: {fileID: 2915763973631960689}
   m_Layer: 0
   m_Name: Barrel lid
   m_TagString: Untagged
@@ -4250,6 +4368,18 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &2915763973631960689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5106582944319766906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1ffcd15290876478609cae8dcb3d0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5669824407627323827
 GameObject:
   m_ObjectHideFlags: 0
@@ -4383,6 +4513,7 @@ GameObject:
   - component: {fileID: 5169178569142724448}
   - component: {fileID: 5340810651488464244}
   - component: {fileID: 4426003345864284477}
+  - component: {fileID: 4661440688678733841}
   m_Layer: 0
   m_Name: Wood_02 (12)
   m_TagString: Untagged
@@ -4706,6 +4837,18 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
     m_Variable: {fileID: 0}
+--- !u!114 &4661440688678733841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5894925291227068871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1ffcd15290876478609cae8dcb3d0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6027203805391897882
 GameObject:
   m_ObjectHideFlags: 0
@@ -5193,6 +5336,7 @@ GameObject:
   - component: {fileID: 4666587041606911107}
   - component: {fileID: 6829249838882842739}
   - component: {fileID: 8213250632467537551}
+  - component: {fileID: 8104971774019160678}
   m_Layer: 0
   m_Name: Wood_02 (11)
   m_TagString: Untagged
@@ -5516,6 +5660,18 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
     m_Variable: {fileID: 0}
+--- !u!114 &8104971774019160678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9031254681686336079}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1ffcd15290876478609cae8dcb3d0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &9146344140880819206
 GameObject:
   m_ObjectHideFlags: 0
@@ -5531,6 +5687,7 @@ GameObject:
   - component: {fileID: 7246642737319982772}
   - component: {fileID: 7648335428042178441}
   - component: {fileID: 8860860945949731176}
+  - component: {fileID: 3868839952737754356}
   m_Layer: 0
   m_Name: Wood_02 (1)
   m_TagString: Untagged
@@ -5854,6 +6011,18 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
     m_Variable: {fileID: 0}
+--- !u!114 &3868839952737754356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9146344140880819206}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1ffcd15290876478609cae8dcb3d0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &5721695371914388967
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5909,10 +6078,30 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1381402955315301241, guid: 2b22d73e5dbab6247b1e61f4a447934f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3230050157392088420}
   m_SourcePrefab: {fileID: 100100000, guid: 2b22d73e5dbab6247b1e61f4a447934f, type: 3}
 --- !u!4 &1170854179517288023 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6870309452916779952, guid: 2b22d73e5dbab6247b1e61f4a447934f, type: 3}
   m_PrefabInstance: {fileID: 5721695371914388967}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &6650744673047047838 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1381402955315301241, guid: 2b22d73e5dbab6247b1e61f4a447934f, type: 3}
+  m_PrefabInstance: {fileID: 5721695371914388967}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3230050157392088420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6650744673047047838}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd1ffcd15290876478609cae8dcb3d0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
