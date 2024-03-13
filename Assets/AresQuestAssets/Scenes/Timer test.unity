@@ -12000,6 +12000,38 @@ PrefabInstance:
       propertyPath: m_Name
       value: Timer
       objectReference: {fileID: 0}
+    - target: {fileID: 8106144228055211996, guid: 343265ae7eef77f42b831737d7628f75, type: 3}
+      propertyPath: totalTime
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106144228055211996, guid: 343265ae7eef77f42b831737d7628f75, type: 3}
+      propertyPath: playerLost.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106144228055211996, guid: 343265ae7eef77f42b831737d7628f75, type: 3}
+      propertyPath: playerLost.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106144228055211996, guid: 343265ae7eef77f42b831737d7628f75, type: 3}
+      propertyPath: playerLost.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1385005669}
+    - target: {fileID: 8106144228055211996, guid: 343265ae7eef77f42b831737d7628f75, type: 3}
+      propertyPath: playerLost.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106144228055211996, guid: 343265ae7eef77f42b831737d7628f75, type: 3}
+      propertyPath: playerLost.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: GameToLoose
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106144228055211996, guid: 343265ae7eef77f42b831737d7628f75, type: 3}
+      propertyPath: playerLost.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: GameManager, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8106144228055211996, guid: 343265ae7eef77f42b831737d7628f75, type: 3}
+      propertyPath: playerLost.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

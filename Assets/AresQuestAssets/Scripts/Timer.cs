@@ -1,10 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using TMPro;
 
 public class Timer : MonoBehaviour
 {
+    public UnityEvent playerLost;
+
     public TMP_Text minutes;
     public TMP_Text seconds;
 
@@ -18,7 +21,7 @@ public class Timer : MonoBehaviour
         }
         else if(totalTime == 0)
         {
-            //Player lost
+            playerLost.Invoke();
         }
 
         float min = Mathf.FloorToInt(totalTime / 60);

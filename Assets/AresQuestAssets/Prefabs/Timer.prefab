@@ -357,6 +357,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f89107377285e7e49bb1420e5c2f89a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerLost:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11500000, guid: c0cad5fb173983a48b89fe52185052df, type: 3}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   minutes: {fileID: 4764107923549220325}
   seconds: {fileID: 6823472181767051838}
   totalTime: 75
