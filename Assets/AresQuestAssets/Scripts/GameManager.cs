@@ -3,6 +3,9 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
+    public AudioSource destroySound;
+    public GameObject particlePrefab;
+
     void Start()
     {
 
@@ -11,6 +14,15 @@ public class GameManager : MonoBehaviour
     public void ChangeScene()
     {
         SceneManager.LoadScene(1);
+    }
+
+
+    public void BarrelBreak()
+    {
+        //Play particles
+        Instantiate(particlePrefab);
+        //Play sound
+        destroySound.Play();
     }
 
 }
