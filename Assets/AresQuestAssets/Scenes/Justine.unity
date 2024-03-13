@@ -1503,6 +1503,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0cad5fb173983a48b89fe52185052df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  destroySound: {fileID: 0}
+  particlePrefab: {fileID: 0}
 --- !u!4 &2079593682
 Transform:
   m_ObjectHideFlags: 0

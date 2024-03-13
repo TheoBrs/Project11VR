@@ -11,12 +11,6 @@ public class GameManager : MonoBehaviour
 
     }
 
-    public void ChangeScene()
-    {
-        SceneManager.LoadScene(1);
-    }
-
-
     public void BarrelBreak()
     {
         //Play particles
