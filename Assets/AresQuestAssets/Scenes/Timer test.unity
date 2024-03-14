@@ -12002,7 +12002,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8106144228055211996, guid: 343265ae7eef77f42b831737d7628f75, type: 3}
       propertyPath: totalTime
-      value: 10
+      value: 1800
       objectReference: {fileID: 0}
     - target: {fileID: 8106144228055211996, guid: 343265ae7eef77f42b831737d7628f75, type: 3}
       propertyPath: playerLost.m_PersistentCalls.m_Calls.Array.size
