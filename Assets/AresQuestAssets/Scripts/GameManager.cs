@@ -6,11 +6,6 @@ public class GameManager : MonoBehaviour
     public AudioSource destroySound;
     public GameObject particlePrefab;
 
-    void Start()
-    {
-
-    }
-
 
     public void BarrelBreak()
     {
@@ -19,5 +14,4 @@ public class GameManager : MonoBehaviour
         //Play sound
         destroySound.Play();
     }
-
 }
