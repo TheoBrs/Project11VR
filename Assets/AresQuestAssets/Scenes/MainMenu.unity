@@ -219,10 +219,10 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 795076717}
+  - {fileID: 967576440}
   - {fileID: 432126526}
   - {fileID: 953879262}
   - {fileID: 1936766673}
-  - {fileID: 967576440}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -678,7 +678,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 953879264}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1756976348}
+        m_TargetAssemblyTypeName: ChangeScene, Assembly-CSharp
+        m_MethodName: MenuToSettings
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &953879264
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1503,6 +1515,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0cad5fb173983a48b89fe52185052df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  destroySound: {fileID: 0}
+  particlePrefab: {fileID: 0}
 --- !u!4 &2079593682
 Transform:
   m_ObjectHideFlags: 0

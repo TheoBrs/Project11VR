@@ -23,4 +23,14 @@ public class ChangeScene : MonoBehaviour
     {
         SceneManager.LoadScene(4);
     }
+
+    public void MenuToSettings()
+    {
+        SceneManager.LoadScene(5);
+    }
+
+    public void SettingsToMenu()
+    {
+        SceneManager.LoadScene(0);
+    }
 }
