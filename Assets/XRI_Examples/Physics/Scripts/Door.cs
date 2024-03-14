@@ -1,3 +1,4 @@
+using UnityEditor.Build.Content;
 using UnityEngine.Events;
 using UnityEngine.XR.Interaction.Toolkit;
 
@@ -46,7 +47,7 @@ namespace UnityEngine.XR.Content.Interaction
         bool m_Closed = false;
         float m_LastHandleValue = 1.0f;
 
-        bool m_Locked = false;
+        bool m_Locked = true;
 
         GameObject m_KeySocket;
         IXRSelectInteractable m_Key;

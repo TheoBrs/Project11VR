@@ -11,7 +11,7 @@ public class Timer : MonoBehaviour
     public TMP_Text minutes;
     public TMP_Text seconds;
 
-    public float totalTime = 75;
+    public float totalTime = 900.0f;
 
     void Update()
     {
@@ -19,7 +19,7 @@ public class Timer : MonoBehaviour
         {
             totalTime -= Time.deltaTime;
         }
-        else if(totalTime == 0)
+        else if(totalTime <= 0)
         {
             playerLost.Invoke();
         }
